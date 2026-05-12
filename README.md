@@ -261,8 +261,8 @@ jwt-auth-api/
 
 ## 1. Clone repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/jwt-auth-api.git
-cd jwt-auth-api
+git clone https://github.com/Ajima-Fabian/auth-api.git
+cd auth-api
 ```
 
 ## 2. Install dependencies
