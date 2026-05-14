@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: jwt-auth-api
-          image: YOUR_DOCKER_IMAGE
+          image: ajimafabian/jwt-auth-api
 
           ports:
             - containerPort: 3000
